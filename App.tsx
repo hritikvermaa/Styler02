@@ -18,9 +18,10 @@ const App = () => {
            <ElevatedCards/>
           <FancyCardss />
           <FancyCardss />
+
           <ContactList />
           <ActionCard />
-         
+       
         </ScrollView>
       </View> 
       
