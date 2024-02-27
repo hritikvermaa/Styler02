@@ -12,7 +12,7 @@ export default function ActionCard() {
       <View style={[ActionCardStyle.card,ActionCardStyle.elevatedCard]}>
          <View style={ActionCardStyle.headingContainer}>
          <Text style={ActionCardStyle.headerText}>
-            what's new in javascript21-ES12
+            What's new in javascript21-ES12
          </Text>
          </View>
          <Image
